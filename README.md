@@ -222,11 +222,15 @@ py -3.11 -m unittest discover -s tests -v
 
 
 
-Sreelakshmi S
+\*\*Sreelakshmi S.\*\*
+
+
 
 MSc Bioinformatics| Bioinformatics Enthusiast
 
-https://github.com/Sreelakshmipp-jpg|sreelakshmispp26@gmail.com
+
+
+\[ Sreelakshmi S. – GitHub Profile](https://github.com/Sreelakshmipp-jpg)
 
 
 
