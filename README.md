@@ -228,3 +228,29 @@ MSc Bioinformatics| Bioinformatics Enthusiast
 
 https://github.com/Sreelakshmipp-jpg|sreelakshmispp26@gmail.com
 
+
+
+
+
+\## Screenshots
+
+
+
+\### Protein Analyzer
+
+Example output from analyzing the human TPH1 protein sequence.
+
+
+
+!\[Protein Analyzer Output](images/protein\_analyzer\_output.png)
+
+
+
+\### FASTA Analyzer
+
+Example output showing FASTA sequence analysis.
+
+
+
+!\[FASTA Analyzer Output](images/fasta\_analyzer\_output.png)
+
