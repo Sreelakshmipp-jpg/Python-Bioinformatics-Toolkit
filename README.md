@@ -132,6 +132,8 @@ Python\_\_toolkit/
 
 
 
+
+
 \## Installation
 
 
@@ -269,6 +271,10 @@ Example output showing FASTA sequence analysis.
 
 
 !\[FASTA Analyzer Output](images/fasta\_analyzer\_output.png)
+
+
+
+
 
 
 
