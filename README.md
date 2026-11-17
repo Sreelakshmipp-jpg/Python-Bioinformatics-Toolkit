@@ -230,47 +230,28 @@ py -3.11 -m unittest discover -s tests -v
 
 
 
-\## Author
+## Author
 
-
-
-\*\*Sreelakshmi S.\*\*
-
-
+**Sreelakshmi S.**
 
 MSc Bioinformatics | Bioinformatics Enthusiast
 
+[GitHub Profile](https://github.com/Sreelakshmipp-jpg)
 
+## Screenshots
 
-\[GitHub Profile](https://github.com/Sreelakshmipp-jpg)
-
-
-
-\## Screenshots
-
-
-
-\### Protein Analyzer
-
-
+### Protein Analyzer
 
 Example output from analyzing the human TPH1 protein sequence.
 
+![Protein Analyzer Output](images/protein_analyzer_output.png)
 
-
-!\[Protein Analyzer Output](images/protein\_analyzer\_output.png)
-
-
-
-\### FASTA Analyzer
-
-
+### FASTA Analyzer
 
 Example output showing FASTA sequence analysis.
 
+![FASTA Analyzer Output](images/fasta_analyzer_output.png)
 
-
-!\[FASTA Analyzer Output](images/fasta\_analyzer\_output.png)
 
 
 
