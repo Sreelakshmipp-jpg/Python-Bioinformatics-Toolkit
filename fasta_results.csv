@@ -1,0 +1,5 @@
+id,type,length,invalid_removed,ambiguous_bases,ambiguous_pct,A,C,G,T,U,gc_percent,gc_min,gc_max,gc_skew,tm,tm_method,mw_min,mw_max,orf_length,orf_strand,orf_frame,orf_start,orf_end,orf_start_codon,warnings
+Sequence_11,DNA,180,0,0,0.0,44,44,49,43,,51.67,51.67,51.67,0.054,77.3,long-sequence GC formula (approximate); 50 mM Na+,55654.9,55654.9,42,-,3,68,109,ATG,
+Sequence_12,DNA,120,0,0,0.0,30,29,32,29,,50.83,50.83,50.83,0.049,75.1,long-sequence GC formula (approximate); 50 mM Na+,37076.9,37076.9,42,-,2,60,101,ATG,
+Sequence_13,DNA,180,0,0,0.0,46,55,43,36,,54.44,54.44,54.44,-0.122,78.5,long-sequence GC formula (approximate); 50 mM Na+,55357.7,55357.7,102,+,1,1,102,ATG,
+Sequence_14,DNA,150,0,0,0.0,37,37,40,36,,51.33,51.33,51.33,0.039,76.4,long-sequence GC formula (approximate); 50 mM Na+,46345.9,46345.9,,,,,,,
