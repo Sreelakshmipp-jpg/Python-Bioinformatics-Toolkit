@@ -1,3 +1,5 @@
+
+
 \# Python Bioinformatics Toolkit
 
 
@@ -108,11 +110,23 @@ Python\_\_toolkit/
 
 │   └── TPH1.fasta
 
-└── tests/
+├── tests/
 
-&#x20;   ├── \_\_init\_\_.py
+│   ├── \_\_init\_\_.py
 
-&#x20;   └── test\_protein\_analyzer.py
+│   └── test\_protein\_analyzer.py
+
+├── images/
+
+│   ├── protein\_analyzer\_output.png
+
+│   └── fasta\_analyzer\_output.png
+
+├── README.md
+
+├── requirements.txt
+
+└── .gitignore
 
 ```
 
@@ -126,23 +140,19 @@ Install Python 3.11.
 
 
 
-Install Biopython:
+Install the required library:
 
 
 
 ```bash
 
-py -3.11 -m pip install biopython
+py -3.11 -m pip install -r requirements.txt
 
 ```
 
 
 
 \## Running the Tools
-
-
-
-Run the individual scripts using:
 
 
 
@@ -226,13 +236,11 @@ py -3.11 -m unittest discover -s tests -v
 
 
 
-MSc Bioinformatics| Bioinformatics Enthusiast
+MSc Bioinformatics | Bioinformatics Enthusiast
 
 
 
-\[ Sreelakshmi S. – GitHub Profile](https://github.com/Sreelakshmipp-jpg)
-
-
+\[GitHub Profile](https://github.com/Sreelakshmipp-jpg)
 
 
 
@@ -261,4 +269,6 @@ Example output showing FASTA sequence analysis.
 
 
 !\[FASTA Analyzer Output](images/fasta\_analyzer\_output.png)
+
+
 
