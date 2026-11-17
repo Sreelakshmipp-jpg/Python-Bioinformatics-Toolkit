@@ -238,6 +238,8 @@ https://github.com/Sreelakshmipp-jpg|sreelakshmispp26@gmail.com
 
 \### Protein Analyzer
 
+
+
 Example output from analyzing the human TPH1 protein sequence.
 
 
@@ -247,6 +249,8 @@ Example output from analyzing the human TPH1 protein sequence.
 
 
 \### FASTA Analyzer
+
+
 
 Example output showing FASTA sequence analysis.
 
